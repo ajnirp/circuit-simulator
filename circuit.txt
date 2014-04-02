@@ -1,0 +1,6 @@
+'and(x1,x2,y1)'.
+'and(x3,x4,y2)'.
+'or(y2,x5,y3)'.
+'or(y1,y3,y4)'.
+'not(y4,y4,y5)'.
+'output(y5)'.
