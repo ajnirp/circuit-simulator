@@ -65,3 +65,4 @@ signal(X,0) :- \+ signal(X,1).
 %               Terminal1_Value == Terminal2_Value.
 
 signal(Y,Z) :- connected(X,Y), signal(X,Z).
+signal(x1,1).
