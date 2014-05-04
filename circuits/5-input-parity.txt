@@ -1,0 +1,27 @@
+type(g1, xor1).
+type(g2, xor1).
+type(g3, xor1).
+type(g4, xor1).
+
+in(1,g1,z11).
+in(2,g1,z12).
+in(1,g2,z21).
+in(2,g2,z22).
+in(1,g3,z31).
+in(2,g3,z32).
+in(1,g4,z41).
+in(2,g4,z42).
+
+out(g1,y1).
+out(g2,y2).
+out(g3,y3).
+out(g4,y4).
+
+connected(x1, z11).
+connected(x2, z12).
+connected(x3, z21).
+connected(y1, z22).
+connected(x4, z31).
+connected(y2, z32).
+connected(x5, z41).
+connected(y3, z42).

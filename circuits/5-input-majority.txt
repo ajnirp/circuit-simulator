@@ -1,0 +1,125 @@
+type(g1, and3).
+type(g2, and3).
+type(g3, and3).
+type(g4, and3).
+type(g5, and3).
+type(g6, and3).
+type(g7, and3).
+type(g8, and3).
+type(g9, and3).
+type(g10, and3).
+type(g11, or10).
+
+in(1,g1,z11).
+in(2,g1,z12).
+in(3,g1,z13).
+
+in(1,g2,z21).
+in(2,g2,z22).
+in(3,g2,z23).
+
+in(1,g3,z31).
+in(2,g3,z32).
+in(3,g3,z33).
+
+in(1,g4,z41).
+in(2,g4,z42).
+in(3,g4,z43).
+
+in(1,g5,z51).
+in(2,g5,z52).
+in(3,g5,z53).
+
+in(1,g6,z61).
+in(2,g6,z62).
+in(3,g6,z63).
+
+in(1,g7,z71).
+in(2,g7,z72).
+in(3,g7,z73).
+
+in(1,g8,z81).
+in(2,g8,z82).
+in(3,g8,z83).
+
+in(1,g9,z91).
+in(2,g9,z92).
+in(3,g9,z93).
+
+in(1,g10,z101).
+in(2,g10,z102).
+in(3,g10,z103).
+
+in(1,g11,z111).
+in(2,g11,z112).
+in(3,g11,z113).
+in(4,g11,z114).
+in(5,g11,z115).
+in(6,g11,z116).
+in(7,g11,z117).
+in(8,g11,z118).
+in(9,g11,z119).
+in(10,g11,z1110).
+
+connected(x1,z11).
+connected(x2,z12).
+connected(x3,z13).
+
+connected(x1,z21).
+connected(x2,z22).
+connected(x4,z23).
+
+connected(x1,z31).
+connected(x2,z32).
+connected(x5,z33).
+
+connected(x2,z41).
+connected(x3,z42).
+connected(x4,z43).
+
+connected(x2,z51).
+connected(x3,z52).
+connected(x5,z53).
+
+connected(x3,z61).
+connected(x4,z62).
+connected(x5,z63).
+
+connected(x1,z71).
+connected(x3,z72).
+connected(x4,z73).
+
+connected(x1,z81).
+connected(x3,z82).
+connected(x5,z83).
+
+connected(x1,z91).
+connected(x4,z92).
+connected(x5,z93).
+
+connected(x2,z101).
+connected(x4,z102).
+connected(x5,z103).
+
+connected(y1,z111).
+connected(y2,z112).
+connected(y3,z113).
+connected(y4,z114).
+connected(y5,z115).
+connected(y6,z116).
+connected(y7,z117).
+connected(y8,z118).
+connected(y9,z119).
+connected(y10,z1110).
+
+out(g1,y1).
+out(g2,y2).
+out(g3,y3).
+out(g4,y4).
+out(g5,y5).
+out(g6,y6).
+out(g7,y7).
+out(g8,y8).
+out(g9,y9).
+out(g10,y10).
+out(g11,y11).

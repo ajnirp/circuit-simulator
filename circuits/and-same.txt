@@ -1,0 +1,6 @@
+type(g1,and1).
+in(1,g1,z11).
+in(2,g1,z12).
+out(g1,y1).
+connected(x1,z11).
+connected(x1,z12).
